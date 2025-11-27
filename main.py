@@ -56,4 +56,4 @@ def main():
     print(artcode_r('MMMMaaacXolloMM'))
 
 if __name__ == "__main__":
-    main()
+    main() 
